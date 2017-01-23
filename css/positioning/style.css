@@ -1,0 +1,26 @@
+img {
+
+  display: block;
+  margin: auto;
+}
+
+#hat {
+  margin-bottom: 450px;
+  position: fixed;
+  bottom: 77px;
+  right: 555px;
+  
+
+}
+
+#glasses {
+  margin-bottom: 375px;
+  position: fixed;
+  bottom: 43px;
+  right: 650px;
+  width: ;
+}
+
+#octo {
+  margin-top: 225px;
+}
