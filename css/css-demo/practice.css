@@ -1,0 +1,11 @@
+#contact-info {font-size: .8em;}
+
+.job { background-color: #e9e5dc; border-radius: 10px; padding-left: 15px; margin-top: 50px;}
+
+.small {font-size: .8em;}
+
+/* Cascading means basically a set of rules for the browser to follow*/
+/* You would add .h2 > .small {background-color: black;*/
+/* */
+/* */
+/* */
