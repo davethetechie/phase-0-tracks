@@ -1,0 +1,17 @@
+- Walk until you get to the two closed silver doors
+	- Press the “up” arrow if you want to go up
+	- Press the “down” arrow if you want to go down
+
+
+- When doors open Walk into elevator turn 360 so you are facing the exit
+- Look at the elevator panel with the bright buttons 
+    - IF you want to go to the first floor hit “1”
+    - For floor 2 hit 2
+    - For floor 3 hit 3
+    - For floor 4 hit 4
+    - For floor 5 hit 5
+
+- Wait potentially until the doors open and ding
+   
+- walk forward out the elevator
+	-Smile
