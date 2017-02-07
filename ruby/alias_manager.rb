@@ -47,7 +47,7 @@
  agent_list = []
  
  loop do
-   puts ("enter your names you want to change (alias), type 'thats it' when finished")
+   puts ("enter the names you want to change (alias), type 'thats it' when finished")
    answer = gets.chomp
    break if answer == "thats it"
    #feed into array
